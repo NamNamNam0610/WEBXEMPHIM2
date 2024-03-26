@@ -1,0 +1,3 @@
+
+ config ở : libs/db.php
+set quyền admin 
